@@ -1,0 +1,12 @@
+payload,status,expectedResponse
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":true}}","200","{"control":{"type":"S","code":"200","message":"OK"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":false}}","400","{"control":{"type":"E","code":"400","message":"Bad Request"}}"
+"{"customer":{"subscriberId":""},"appointment":{"id":"SA-562403","confirmation":true}}","401","{"control":{"type":"E","code":"401","message":"Unauthorized"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"","confirmation":true}}","403","{"control":{"type":"E","code":"403","message":"Forbidden - Scope Not Permitted"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":null}}","404","{"control":{"type":"E","code":"404","message":"Not Found"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","406","{"control":{"type":"E","code":"406","message":"Not Acceptable"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","412","{"control":{"type":"E","code":"412","message":"Precondition Failed"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","429","{"control":{"type":"E","code":"429","message":"Too Many Requests - Exceeded Quota"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","500","{"control":{"type":"T","code":"500","message":"Internal Server Error"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","503","{"control":{"type":"T","code":"503","message":"Service Unavailable"}}"
+"{"customer":{"subscriberId":"VTAL001"},"appointment":{"id":"SA-562403","confirmation":"invalid_input"}}","504","{"control":{"type":"T","code":"504","message":"Gateway Timeout"}}"
