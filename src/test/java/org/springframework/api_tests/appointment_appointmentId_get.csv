@@ -1,4 +1,4 @@
-appointmentId,statusCode,responseBody
+"","",""
 "'SA-562403'","200","{ control: { type: 'S', code: '200', message: 'Ok' }, appointments: { id: 'SA-562403', lifeCycleStatus: 'Não atribuído', occurrences: '#array' } }"
 "'SA-562404'","404","{ control: { type: 'E', code: '404', message: 'Not Found' } }"
 "'SA-562405'","401","{ control: { type: 'E', code: '401', message: 'Unauthorized' } }"
