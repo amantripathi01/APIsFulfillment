@@ -1,8 +1,8 @@
-addressId,subscriberId,associatedDocument,startDate,finishDate,orderType,addressChangeFlag,productType,priorityFlag,priorityReason,status,type,message,__parsed_extra
-,,,,,,,,,,,,,
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',406,'E','Not Acceptable','406'
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',412,'E','Precondition Failed','412'
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',429,'E','Too Many Requests - Exceeded Quota','429'
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',500,'T','Internal Server Error','500'
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',503,'T','Service Unavailable','503'
-17713,'VTAL001','VTT001','2021-05-21T13:00:00','2021-06-04T13:00:00','Install',true,['Broadband'],true,'Customer Diamond',504,'T','Gateway Timeout','504'
+"addressId","subscriberId","associatedDocument","startDate","finishDate","orderType","addressChangeFlag","productType","priorityFlag","priorityReason","status","type","message","__parsed_extra"
+"","","","","","","","","","","","","",""
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","406","'E'","'Not Acceptable'","'406'"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","412","'E'","'Precondition Failed'","'412'"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","429","'E'","'Too Many Requests - Exceeded Quota'","'429'"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","500","'T'","'Internal Server Error'","'500'"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","503","'T'","'Service Unavailable'","'503'"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Customer Diamond'","504","'T'","'Gateway Timeout'","'504'"
