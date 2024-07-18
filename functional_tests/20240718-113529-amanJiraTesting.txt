@@ -1,0 +1,48 @@
+Functional Test Cases:
+
+1. Verify the ability to set up a credit card application
+   - Input: Valid credit card application details
+   - Expected Output: Successful setup and confirmation message
+   - Edge Case: Attempt setup with invalid or incomplete details
+
+2. Verify the openapi-generator source code generation
+   - Input: Valid openapi specifications
+   - Expected Output: Successful generation of server code
+   - Edge Case: Attempt generation with invalid openapi specifications
+
+3. Verify the addition of code logic using GitHub copilot
+   - Input: Code logic requirements
+   - Expected Output: Successful addition of code logic
+   - Edge Case: Attempt addition with invalid or ambiguous requirements
+
+4. Verify the generation of Karate API tests
+   - Input: API endpoints and expected responses
+   - Expected Output: Successful generation of Karate tests
+   - Edge Case: Attempt generation with invalid or ambiguous API details
+
+5. Verify the execution of Karate API tests
+   - Input: Generated Karate API tests
+   - Expected Output: Successful execution and accurate test results
+   - Edge Case: Attempt execution with faulty or incomplete Karate tests
+
+Non-Functional Test Cases:
+
+1. Verify the performance of the credit card application setup process
+   - Input: Valid credit card application details
+   - Expected Output: Setup process completes within acceptable time frame
+
+2. Verify the scalability of the openapi-generator generated source code
+   - Input: Increased load or request frequency
+   - Expected Output: Code maintains functionality under increased load
+
+3. Verify the reliability of the code logic added using GitHub copilot
+   - Input: Range of different logic requirements
+   - Expected Output: Consistent and accurate code logic generation
+
+4. Verify the robustness of the Karate API tests
+   - Input: Range of different API scenarios
+   - Expected Output: Tests accurately identify pass/fail scenarios and do not fail under different conditions
+
+5. Verify the security of the credit card application setup process
+   - Input: Valid credit card application details
+   - Expected Output: Sensitive information is adequately protected during transmission and storage.
