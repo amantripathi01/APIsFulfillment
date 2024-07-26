@@ -1,0 +1,9 @@
+addressId,subscriberId,associatedDocument,startDate,finishDate,orderType,addressChangeFlag,productType,priorityFlag,priorityReason,statusCode,responseBody
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","200","{ control: { type: 'S', code: '200', message: 'OK' }, slots: '#array' }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","400","{ control: { type: 'E', code: '400', message: 'Bad Request' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","401","{ control: { type: 'E', code: '401', message: 'Unauthorized' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","403","{ control: { type: 'E', code: '403', message: 'Forbidden - Scope Not Permitted' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","404","{ control: { type: 'E', code: '404', message: 'Not Found' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","500","{ control: { type: 'T', code: '500', message: 'Internal Server Error' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","503","{ control: { type: 'T', code: '503', message: 'Service Unavailable' } }"
+"17713","'VTAL001'","'VTT001'","'2021-05-21T13:00:00'","'2021-06-04T13:00:00'","'Install'","true","['Broadband']","true","'Diamond Client'","504","{ control: { type: 'T', code: '504', message: 'Gateway Timeout' } }"
