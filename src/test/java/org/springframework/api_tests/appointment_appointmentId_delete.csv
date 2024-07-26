@@ -1,0 +1,13 @@
+appointmentId,appointmentReason,appointmentComments,statusCode,responseType,responseCode,responseMessage
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","200","'S'","'200'","'OK'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","400","'E'","'400'","'Bad Request'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","401","'E'","'401'","'Unauthorized'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","403","'E'","'403'","'Forbidden'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","404","'E'","'404'","'Not Found'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","406","'E'","'406'","'Not Acceptable'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","412","'E'","'412'","'Precondition Failed'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","423","'E'","'423'","'Locked'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","429","'E'","'429'","'Too Many Requests'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","500","'T'","'500'","'Internal Server Error'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","503","'T'","'503'","'Service Unavailable'"
+"'SA-562403'","'Cancelamento Checkout'","'Cancelamento Checkout'","504","'T'","'504'","'Gateway Timeout'"
