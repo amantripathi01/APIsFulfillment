@@ -1,0 +1,11 @@
+cocNumber^|^cocBranchNumber^|^city^|^tradeName^|^phone^|^email^|^statusCode^|^scenario
+12345678^|^123456789012^|^New York^|^XYZ Corp^|^1234567890^|^xyzcorp@gmail.com^|^200^|^A
+23456789^|^234567890123^|^Los Angeles^|^ABC Inc^|^2345678901^|^abcinc@gmail.com^|^200^|^B
+34567890^|^345678901234^|^Chicago^|^PQR Ltd^|^3456789012^|^pqrltd@gmail.com^|^200^|^A
+45678901^|^456789012345^|^Houston^|^MNO Pvt Ltd^|^4567890123^|^mnopvtltd@gmail.com^|^200^|^B
+56789012^|^567890123456^|^Phoenix^|^EFG Co^|^5678901234^|^efgco@gmail.com^|^200^|^A
+67890123^|^678901234567^|^Philadelphia^|^HIJ Associates^|^6789012345^|^hijassociates@gmail.com^|^200^|^B
+78901234^|^789012345678^|^San Antonio^|^KLM Partners^|^7890123456^|^klmpartners@gmail.com^|^200^|^A
+89012345^|^890123456789^|^San Diego^|^NOP Solutions^|^8901234567^|^nopsolutions@gmail.com^|^200^|^B
+90123456^|^901234567890^|^Dallas^|^QRS Services^|^9012345678^|^qrsservices@gmail.com^|^200^|^A
+01234567^|^012345678901^|^San Jose^|^TUV Enterprises^|^0123456789^|^tuventerprises@gmail.com^|^200^|^B

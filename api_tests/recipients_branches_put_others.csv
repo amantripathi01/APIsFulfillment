@@ -1,0 +1,11 @@
+cocNumber^|^cocBranchNumber^|^city^|^tradeName^|^phone^|^email^|^statusCode^|^scenario
+12345678^|^123456789012^|^New York^|^XYZ Corp^|^1234567890^|^xyz@example.com^|^200^|^Scenario1
+87654321^|^210987654321^|^Los Angeles^|^ABC Inc^|^0987654321^|^abc@example.com^|^404^|^Scenario2
+23456789^|^321098765432^|^Chicago^|^PQR Ltd^|^2345678901^|^pqr@example.com^|^500^|^Scenario3
+76543210^|^012345678987^|^Houston^|^LMN Pvt Ltd^|^7654321098^|^lmn@example.com^|^200^|^Scenario4
+34567890^|^432109876543^|^Phoenix^|^RST Co^|^3456789012^|^rst@example.com^|^404^|^Scenario5
+65432109^|^987654321098^|^Philadelphia^|^UVW Gmbh^|^6543210987^|^uvw@example.com^|^500^|^Scenario6
+45678901^|^543210987654^|^San Antonio^|^DEF LLC^|^4567890123^|^def@example.com^|^200^|^Scenario7
+54321098^|^098765432109^|^San Diego^|^GHI Plc^|^5432109876^|^ghi@example.com^|^404^|^Scenario8
+56789012^|^654321098765^|^Dallas^|^JKL AG^|^5678901234^|^jkl@example.com^|^500^|^Scenario9
+43210987^|^109876543210^|^San Jose^|^MNO SA^|^4321098765^|^mno@example.com^|^200^|^Scenario10

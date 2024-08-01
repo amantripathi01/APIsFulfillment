@@ -1,0 +1,11 @@
+email^|^statusCode^|^scenario
+john.doe@example.com^|^200^|^LoginSuccess
+jane.doe@example.com^|^404^|^PageNotFound
+mike.jones@example.com^|^500^|^ServerError
+sarah.smith@example.com^|^200^|^PurchaseSuccess
+paul.martin@example.com^|^403^|^AccessDenied
+lisa.johnson@example.com^|^200^|^ProfileUpdate
+tom.wilson@example.com^|^401^|^UnauthorizedAccess
+nancy.davis@example.com^|^200^|^LogoutSuccess
+steve.miller@example.com^|^400^|^BadRequest
+mary.taylor@example.com^|^200^|^RegistrationSuccess

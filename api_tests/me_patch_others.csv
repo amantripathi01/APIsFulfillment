@@ -1,0 +1,11 @@
+name^|^image^|^settings^|^statusCode^|^scenario
+John Doe^|^data:image/jpeg;base64,<clipped>^|^{\"language\":\"English\",\"notifications\":true}^|^200^|^Test1
+Jane Smith^|^data:image/png;base64,<clipped>^|^{\"language\":\"French\",\"notifications\":false}^|^404^|^Test2
+Bob Johnson^|^data:image/gif;base64,<clipped>^|^{\"language\":\"Spanish\",\"notifications\":true}^|^500^|^Test3
+Alice Williams^|^data:image/jpeg;base64,<clipped>^|^{\"language\":\"German\",\"notifications\":true}^|^200^|^Test4
+Charlie Brown^|^data:image/png;base64,<clipped>^|^{\"language\":\"Italian\",\"notifications\":false}^|^404^|^Test5
+Daniel Davis^|^data:image/gif;base64,<clipped>^|^{\"language\":\"English\",\"notifications\":true}^|^500^|^Test6
+Emily Evans^|^data:image/jpeg;base64,<clipped>^|^{\"language\":\"French\",\"notifications\":true}^|^200^|^Test7
+Frank Foster^|^data:image/png;base64,<clipped>^|^{\"language\":\"Spanish\",\"notifications\":false}^|^404^|^Test8
+Grace Green^|^data:image/gif;base64,<clipped>^|^{\"language\":\"German\",\"notifications\":true}^|^500^|^Test9
+Henry Harris^|^data:image/jpeg;base64,<clipped>^|^{\"language\":\"Italian\",\"notifications\":true}^|^200^|^Test10

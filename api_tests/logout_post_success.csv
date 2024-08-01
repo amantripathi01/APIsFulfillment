@@ -1,0 +1,11 @@
+username^|^password^|^statusCode^|^scenario
+JohnDoe^|^Pass123^|^200^|^Login
+JaneDoe^|^JPass456^|^200^|^Logout
+Alice^|^Alice789^|^200^|^ProfileView
+Bob^|^BobPass321^|^200^|^CartView
+Charlie^|^Charlie654^|^200^|^Payment
+Eve^|^EvePass987^|^200^|^Order
+Frank^|^FrankPass111^|^200^|^Review
+Grace^|^GracePass222^|^200^|^Login
+Heidi^|^HeidiPass333^|^200^|^Logout
+Ivan^|^IvanPass444^|^200^|^ProfileView

@@ -1,0 +1,11 @@
+apiKey^|^statusCode^|^scenario
+123e4567-e89b-12d3-a456-426614174000^|^200^|^User Registration
+223e4567-e89b-12d3-a456-426614174001^|^200^|^User Login
+323e4567-e89b-12d3-a456-426614174002^|^200^|^User Logout
+423e4567-e89b-12d3-a456-426614174003^|^200^|^Password Reset
+523e4567-e89b-12d3-a456-426614174004^|^200^|^Profile Update
+623e4567-e89b-12d3-a456-426614174005^|^200^|^Account Deletion
+723e4567-e89b-12d3-a456-426614174006^|^200^|^User Reactivation
+823e4567-e89b-12d3-a456-426614174007^|^200^|^Data Download Request
+923e4567-e89b-12d3-a456-426614174008^|^200^|^Email Change Request
+023e4567-e89b-12d3-a456-426614174009^|^200^|^Username Change Request

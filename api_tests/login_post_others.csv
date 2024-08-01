@@ -1,0 +1,11 @@
+email^|^otp^|^client^|^statusCode^|^scenario
+johndoe@example.com^|^123456^|^ClientA^|^200^|^LoginSuccess
+janedoe@example.com^|^654321^|^ClientB^|^404^|^LoginFailed
+mike@example.com^|^111111^|^ClientC^|^200^|^PasswordChange
+emma@example.com^|^222222^|^ClientD^|^500^|^ServerError
+jack@example.com^|^333333^|^ClientE^|^200^|^ProfileUpdate
+sara@example.com^|^444444^|^ClientF^|^403^|^AccessDenied
+tom@example.com^|^555555^|^ClientG^|^200^|^Logout
+lisa@example.com^|^666666^|^ClientH^|^400^|^BadRequest
+mark@example.com^|^777777^|^ClientI^|^200^|^Registration
+amy@example.com^|^888888^|^ClientJ^|^401^|^UnauthorisedAccess
