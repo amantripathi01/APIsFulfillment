@@ -1,0 +1,11 @@
+email^|^statusCode^|^scenario
+john.doe@gmail.com^|^200^|^Login
+mary.jane@yahoo.com^|^404^|^Logout
+peter.parker@hotmail.com^|^^|^PasswordChange
+tony.stark@outlook.com^|^500^|^Payment
+bruce.wayne@aol.com^|^403^|^Registration
+clark.kent@icloud.com^|^200^|^Login
+diana.prince@gmail.com^|^^|^PasswordReset
+barry.allen@yahoo.com^|^500^|^Payment
+arthur.curry@hotmail.com^|^404^|^Logout
+hal.jordan@outlook.com^|^403^|^Registration

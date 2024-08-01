@@ -1,0 +1,11 @@
+field1^|^field2^|^statusCode^|^scenario
+1234^|^JohnDoe^|^200^|^Login
+5678^|^JaneDoe^|^404^|^Logout
+9012^|^TestUser^|^500^|^Search
+3456^|^AdminUser^|^200^|^UpdateProfile
+7890^|^GuestUser^|^400^|^ViewProfile
+2345^|^^|^300^|^ChangePassword
+6789^|^NullUser^|^^|^ForgotPassword
+0123^|^ErrorUser^|^500^|^Login
+4567^|^InactiveUser^|^200^|^Logout
+8901^|^ActiveUser^|^404^|^Search

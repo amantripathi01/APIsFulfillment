@@ -1,0 +1,11 @@
+accountId^|^tokenId^|^statusCode^|^scenario
+123456^|^abcd-efgh-ijkl-mnop^|^200^|^test1
+789012^|^qrst-uvwx-yz12-3456^|^200^|^test2
+345678^|^789a-bcde-fghi-jk01^|^200^|^test3
+901234^|^2345-6789-abcd-efgh^|^200^|^test4
+567890^|^ijkl-mnop-qrst-uvwx^|^200^|^test5
+234567^|^yz12-3456-789a-bcde^|^200^|^test6
+890123^|^fghi-jk01-2345-6789^|^200^|^test7
+678901^|^mnop-qrst-uvwx-yz12^|^200^|^test8
+123890^|^3456-789a-bcde-fghi^|^200^|^test9
+901678^|^jk01-2345-6789-abcd^|^200^|^test10

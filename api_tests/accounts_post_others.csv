@@ -1,0 +1,11 @@
+email^|^commit-hash
+john.doe@example.com^|^abc1234
+jane.doe@example.com^|^def5678
+test.user@example.com^|^ghi9012
+null^|^jkl3456
+invalid.email^|^mno7890
+user@example.com^|^pqr0123
+email.without@sign^|^stu4567
+emptystring^|^vwx9012
+another.user@example.com^|^yz12345
+yet.another.user@example.com^|^67890abc

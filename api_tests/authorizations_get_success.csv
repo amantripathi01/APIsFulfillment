@@ -1,0 +1,11 @@
+id^|^name^|^email^|^createdAt^|^updatedAt^|^statusCode^|^scenario
+123e4567-e89b-12d3-a456-426614174000^|^John Doe^|^johndoe@example.com^|^2022-02-15T10:34:56Z^|^2022-02-15T10:34:56Z^|^200^|^Scenario1
+223e4567-e89b-12d3-a456-426614174001^|^Jane Doe^|^janedoe@example.com^|^2022-02-15T10:34:57Z^|^2022-02-15T10:34:57Z^|^200^|^Scenario2
+323e4567-e89b-12d3-a456-426614174002^|^Robert Smith^|^robertsmith@example.com^|^2022-02-15T10:34:58Z^|^2022-02-15T10:34:58Z^|^200^|^Scenario3
+423e4567-e89b-12d3-a456-426614174003^|^Laura Johnson^|^laurajohnson@example.com^|^2022-02-15T10:34:59Z^|^2022-02-15T10:34:59Z^|^200^|^Scenario4
+523e4567-e89b-12d3-a456-426614174004^|^James Brown^|^jamesbrown@example.com^|^2022-02-15T10:35:00Z^|^2022-02-15T10:35:00Z^|^200^|^Scenario5
+623e4567-e89b-12d3-a456-426614174005^|^Maria Davis^|^mariadavis@example.com^|^2022-02-15T10:35:01Z^|^2022-02-15T10:35:01Z^|^200^|^Scenario6
+723e4567-e89b-12d3-a456-426614174006^|^Thomas Miller^|^thomasmiller@example.com^|^2022-02-15T10:35:02Z^|^2022-02-15T10:35:02Z^|^200^|^Scenario7
+823e4567-e89b-12d3-a456-426614174007^|^Patricia Wilson^|^patriciawilson@example.com^|^2022-02-15T10:35:03Z^|^2022-02-15T10:35:03Z^|^200^|^Scenario8
+923e4567-e89b-12d3-a456-426614174008^|^Mark Moore^|^markmoore@example.com^|^2022-02-15T10:35:04Z^|^2022-02-15T10:35:04Z^|^200^|^Scenario9
+023e4567-e89b-12d3-a456-426614174009^|^Elizabeth Taylor^|^elizabethtaylor@example.com^|^2022-02-15T10:35:05Z^|^2022-02-15T10:35:05Z^|^200^|^Scenario10

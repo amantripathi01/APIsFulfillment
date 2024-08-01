@@ -1,0 +1,11 @@
+name^|^image^|^settings^|^statusCode^|^scenario
+John Doe^|^data:image/jpeg;base64,abc123^|^{ "theme": "dark", "notifications": "enabled" }^|^200^|^Test Scenario 1
+Jane Smith^|^data:image/png;base64,def456^|^{ "theme": "light", "notifications": "disabled" }^|^404^|^Test Scenario 2
+Bob Johnson^|^data:image/gif;base64,ghi789^|^{ "theme": "dark", "notifications": "enabled" }^|^500^|^Test Scenario 3
+Alice Williams^|^data:image/jpeg;base64,jkl012^|^{ "theme": "light", "notifications": "disabled" }^|^200^|^Test Scenario 4
+Charlie Brown^|^data:image/png;base64,mno345^|^{ "theme": "dark", "notifications": "enabled" }^|^404^|^Test Scenario 5
+David Davis^|^data:image/gif;base64,pqr678^|^{ "theme": "light", "notifications": "disabled" }^|^500^|^Test Scenario 6
+Eve Evans^|^data:image/jpeg;base64,stu901^|^{ "theme": "dark", "notifications": "enabled" }^|^200^|^Test Scenario 7
+Frank Foster^|^data:image/png;base64,vwx234^|^{ "theme": "light", "notifications": "disabled" }^|^404^|^Test Scenario 8
+Grace Green^|^data:image/gif;base64,yza567^|^{ "theme": "dark", "notifications": "enabled" }^|^500^|^Test Scenario 9
+Helen Hall^|^data:image/jpeg;base64,bcd890^|^{ "theme": "light", "notifications": "disabled" }^|^200^|^Test Scenario 10

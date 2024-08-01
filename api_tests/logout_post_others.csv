@@ -1,0 +1,11 @@
+username^|^password^|^statusCode^|^scenario
+john_doe^|^password123^|^200^|^Login Success
+jane_doe^|^mypassword^|^201^|^Password Change
+mike_ross^|^passw0rd^|^404^|^Page Not Found
+rachel_zane^|^12345^|^500^|^Server Error
+harvey_specter^|^password^|^200^|^Login Success
+louis_litt^|^littup^|^403^|^Access Denied
+donna_paulsen^|^secret^|^200^|^Login Success
+jessica_pearson^|^jessica^|^201^|^Password Change
+trevor_evans^|^trevor^|^404^|^Page Not Found
+scotty_scott^|^scotty^|^500^|^Server Error

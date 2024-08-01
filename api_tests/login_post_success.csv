@@ -1,0 +1,11 @@
+email^|^otp^|^client^|^statusCode^|^scenario
+john.doe@example.com^|^123456^|^ClientA^|^200^|^Scenario1
+jane.doe@example.com^|^654321^|^ClientB^|^404^|^Scenario2
+adam.smith@example.com^|^987654^|^ClientC^|^500^|^Scenario3
+eve.johnson@example.com^|^456789^|^ClientD^|^200^|^Scenario4
+michael.brown@example.com^|^321654^|^ClientE^|^404^|^Scenario5
+lucy.green@example.com^|^159753^|^ClientF^|^500^|^Scenario6
+peter.parker@example.com^|^357159^|^ClientG^|^200^|^Scenario7
+mary.jane@example.com^|^852456^|^ClientH^|^404^|^Scenario8
+bruce.wayne@example.com^|^963852^|^ClientI^|^500^|^Scenario9
+clark.kent@example.com^|^741258^|^ClientJ^|^200^|^Scenario10

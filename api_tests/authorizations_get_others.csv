@@ -1,0 +1,11 @@
+username^|^password^|^statusCode^|^scenario
+john_doe^|^password123^|^200^|^ScenarioA
+jane_doe^|^mypassword^|^201^|^ScenarioB
+mike_ross^|^passw0rd^|^404^|^ScenarioA
+rachel_zane^|^123456^|^500^|^ScenarioC
+harvey_specter^|^harvey123^|^200^|^ScenarioD
+louis_litt^|^littup^|^504^|^ScenarioA
+jessica_pearson^|^jessica123^|^200^|^ScenarioB
+donna_paulsen^|^donna123^|^404^|^ScenarioD
+alex_williams^|^alex123^|^201^|^ScenarioC
+katrina_bennett^|^katrina123^|^500^|^ScenarioA

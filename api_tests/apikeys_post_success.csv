@@ -1,0 +1,11 @@
+field1^|^field2^|^statusCode^|^scenario
+1234^|^New York^|^201^|^Scenario1
+5678^|^Los Angeles^|^201^|^Scenario2
+9101^|^Chicago^|^201^|^Scenario3
+1213^|^Houston^|^201^|^Scenario4
+1415^|^Phoenix^|^201^|^Scenario5
+1617^|^Philadelphia^|^201^|^Scenario6
+1819^|^San Antonio^|^201^|^Scenario7
+2021^|^San Diego^|^201^|^Scenario8
+2223^|^Dallas^|^201^|^Scenario9
+2425^|^San Jose^|^201^|^Scenario10
