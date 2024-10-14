@@ -1,0 +1,11 @@
+cluster_id^|^topic_name^|^partitions_count^|^statusCode
+clusterA^|^topic1^|^5^|^200
+clusterB^|^topic2^|^10^|^400
+clusterC^|^topic3^|^15^|^401
+clusterD^|^topic4^|^20^|^403
+clusterE^|^topic5^|^25^|^429
+clusterF^|^topic6^|^30^|^5XX
+clusterG^|^topic7^|^35^|^200
+clusterH^|^topic8^|^40^|^400
+clusterI^|^topic9^|^45^|^401
+clusterJ^|^topic10^|^50^|^403

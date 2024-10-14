@@ -1,0 +1,11 @@
+cluster_id^|^AdditionalCSVvaluInfo^|^topic_name^|^statusCode
+cluster1^|^topic-1^|^topicA^|^200
+cluster2^|^topic-1^|^topicB^|^400
+cluster3^|^topic-1^|^topicC^|^401
+cluster4^|^topic-1^|^topicD^|^403
+cluster5^|^topic-1^|^topicE^|^404
+cluster6^|^topic-1^|^topicF^|^429
+cluster7^|^topic-1^|^topicG^|^5XX
+cluster8^|^topic-1^|^topicH^|^200
+cluster9^|^topic-1^|^topicI^|^400
+cluster10^|^topic-1^|^topicJ^|^401

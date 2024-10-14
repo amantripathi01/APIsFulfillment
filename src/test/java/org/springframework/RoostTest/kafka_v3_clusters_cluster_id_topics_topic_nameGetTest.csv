@@ -1,0 +1,11 @@
+0^|^1
+cluster_id1^|^topic_name1^|^true^|^200^|^The topic
+cluster_id2^|^topic_name2^|^false^|^400^|^Indicates a bad request error. It could be caused by an unexpected request body format or other forms of request validation failure
+cluster_id3^|^topic_name3^|^true^|^401^|^Indicates a client authentication error. Kafka authentication failures will contain error code 40101 in the response body
+cluster_id4^|^topic_name4^|^false^|^403^|^Indicates a client authorization error. Kafka authorization failures will contain error code 40301 in the response body
+cluster_id5^|^topic_name5^|^true^|^404^|^Indicates attempted access to an unreachable or non-existing resource like e.g. an unknown topic or partition. GET requests to endpoints not allowed in the accesslists will also result in this response
+cluster_id6^|^topic_name6^|^false^|^429^|^Indicates that a rate limit threshold has been reached, and the client should retry again later
+cluster_id7^|^topic_name7^|^true^|^500^|^A server-side problem that might not be addressable from the client side. Retriable Kafka errors will contain error code 50003 in the response body
+cluster_id8^|^topic_name8^|^false^|^200^|^The topic
+cluster_id9^|^topic_name9^|^true^|^400^|^Indicates a bad request error. It could be caused by an unexpected request body format or other forms of request validation failure
+cluster_id10^|^topic_name10^|^false^|^401^|^Indicates a client authentication error. Kafka authentication failures will contain error code 40101 in the response body
