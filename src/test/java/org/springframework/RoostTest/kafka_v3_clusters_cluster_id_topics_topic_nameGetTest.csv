@@ -1,0 +1,11 @@
+cluster_id^|^topic_name^|^include_authorized_operations^|^statusCode
+cluster_1^|^topic_A^|^true^|^200
+cluster_2^|^topic_B^|^false^|^400
+cluster_3^|^topic_C^|^true^|^401
+cluster_4^|^topic_D^|^false^|^403
+cluster_5^|^topic_E^|^true^|^404
+cluster_6^|^topic_F^|^false^|^429
+cluster_7^|^topic_G^|^true^|^500
+cluster_8^|^topic_H^|^false^|^200
+cluster_9^|^topic_I^|^true^|^400
+cluster_10^|^topic_J^|^false^|^401
