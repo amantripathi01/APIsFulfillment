@@ -1,0 +1,11 @@
+username^|^password^|^X-Rate-Limit^|^X-Expires-After
+john_doe^|^password123^|^500^|^2022-05-01T13:00:00Z
+jane_doe^|^password456^|^300^|^2022-05-01T14:00:00Z
+mike_smith^|^password789^|^700^|^2022-05-01T15:00:00Z
+emma_jones^|^password321^|^400^|^2022-05-01T16:00:00Z
+sarah_wilson^|^password654^|^600^|^2022-05-01T17:00:00Z
+tom_taylor^|^password987^|^800^|^2022-05-01T18:00:00Z
+lucy_brown^|^password135^|^500^|^2022-05-01T19:00:00Z
+jack_williams^|^password246^|^300^|^2022-05-01T20:00:00Z
+olivia_davis^|^password369^|^700^|^2022-05-01T21:00:00Z
+liam_miller^|^password741^|^400^|^2022-05-01T22:00:00Z

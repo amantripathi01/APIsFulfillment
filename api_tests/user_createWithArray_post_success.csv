@@ -1,0 +1,11 @@
+id^|^username^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus
+1^|^user1^|^John^|^Doe^|^johndoe@email.com^|^password1^|^1234567890^|^1
+2^|^user2^|^Jane^|^Doe^|^janedoe@email.com^|^password2^|^0987654321^|^0
+3^|^user3^|^Jim^|^Beam^|^jimbeam@email.com^|^password3^|^2345678901^|^1
+4^|^user4^|^Jack^|^Daniels^|^jackdaniels@email.com^|^password4^|^3456789012^|^0
+5^|^user5^|^Jill^|^Beam^|^jillbeam@email.com^|^password5^|^4567890123^|^1
+6^|^user6^|^Jerry^|^Daniels^|^jerrydaniels@email.com^|^password6^|^5678901234^|^0
+7^|^user7^|^Jake^|^Beam^|^jakebeam@email.com^|^password7^|^6789012345^|^1
+8^|^user8^|^Jessie^|^Daniels^|^jessiedaniels@email.com^|^password8^|^7890123456^|^0
+9^|^user9^|^Joe^|^Beam^|^joebeam@email.com^|^password9^|^8901234567^|^1
+10^|^user10^|^Julia^|^Daniels^|^juliadaniels@email.com^|^password10^|^9012345678^|^0

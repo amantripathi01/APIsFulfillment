@@ -1,0 +1,11 @@
+code^|^type^|^message^|^petId^|^additionalMetadata^|^file
+123^|^Type1^|^This is a message^|^1001^|^Metadata1^|^File1
+456^|^Type2^|^This is another message^|^1002^|^Metadata2^|^File2
+789^|^Type3^|^Here is a message^|^1003^|^Metadata3^|^File3
+321^|^Type4^|^Message again^|^1004^|^Metadata4^|^File4
+654^|^Type5^|^Another message here^|^1005^|^Metadata5^|^File5
+987^|^Type6^|^Message here^|^1006^|^Metadata6^|^File6
+135^|^Type7^|^This is the message^|^1007^|^Metadata7^|^File7
+246^|^Type8^|^Here is another message^|^1008^|^Metadata8^|^File8
+369^|^Type9^|^Message for you^|^1009^|^Metadata9^|^File9
+482^|^Type10^|^Your message^|^1010^|^Metadata10^|^File10

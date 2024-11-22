@@ -1,0 +1,11 @@
+petId^|^additionalMetadata^|^file
+12345^|^This is a test metadata^|^test_file.jpg
+67890^|^Sample metadata for testing^|^sample_file.pdf
+11223^|^Additional info goes here^|^info.txt
+44556^|^Metadata for user 44556^|^user44556.docx
+78901^|^User 78901 metadata^|^user78901.png
+22334^|^Test metadata for user 22334^|^test22334.csv
+55667^|^Additional info for user 55667^|^user55667.xlsx
+89012^|^User 89012 metadata^|^user89012.gif
+33445^|^Test metadata for user 33445^|^test33445.txt
+66778^|^Additional info for user 66778^|^user66778.doc

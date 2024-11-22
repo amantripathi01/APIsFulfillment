@@ -1,0 +1,11 @@
+username^|^id^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus
+user1^|^1^|^John^|^Doe^|^johndoe@email.com^|^password1^|^1234567890^|^1
+user2^|^2^|^Jane^|^Doe^|^janedoe@email.com^|^password2^|^0987654321^|^2
+user3^|^3^|^James^|^Smith^|^jamessmith@email.com^|^password3^|^1231231231^|^1
+user4^|^4^|^Jessica^|^Smith^|^jessicasmith@email.com^|^password4^|^3213213213^|^2
+user5^|^5^|^Jacob^|^Johnson^|^jacobjohnson@email.com^|^password5^|^4564564564^|^1
+user6^|^6^|^Jennifer^|^Johnson^|^jenniferjohnson@email.com^|^password6^|^6546546546^|^2
+user7^|^7^|^Joseph^|^Williams^|^josephwilliams@email.com^|^password7^|^7897897897^|^1
+user8^|^8^|^Julia^|^Williams^|^juliawilliams@email.com^|^password8^|^9879879878^|^2
+user9^|^9^|^Jason^|^Brown^|^jasonbrown@email.com^|^password9^|^1471471471^|^1
+user10^|^10^|^Jasmine^|^Brown^|^jasminebrown@email.com^|^password10^|^7417417417^|^2
