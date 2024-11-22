@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^101^|^Animals^|^doggie^|^http://example.com/doggie1.jpg^|^201^|^cute^|^available
+2^|^102^|^Birds^|^parrot^|^http://example.com/parrot2.jpg^|^202^|^colorful^|^sold
+3^|^103^|^Fish^|^goldfish^|^http://example.com/goldfish3.jpg^|^203^|^small^|^pending
+4^|^104^|^Reptiles^|^turtle^|^http://example.com/turtle4.jpg^|^204^|^slow^|^available
+5^|^105^|^Mammals^|^kitten^|^http://example.com/kitten5.jpg^|^205^|^fluffy^|^sold
+6^|^106^|^Amphibians^|^frog^|^http://example.com/frog6.jpg^|^206^|^green^|^pending
+7^|^107^|^Insects^|^butterfly^|^http://example.com/butterfly7.jpg^|^207^|^beautiful^|^available
+8^|^108^|^Arachnids^|^spider^|^http://example.com/spider8.jpg^|^208^|^scary^|^sold
+9^|^109^|^Crustaceans^|^crab^|^http://example.com/crab9.jpg^|^209^|^hard^|^pending
+10^|^110^|^Rodents^|^hamster^|^http://example.com/hamster10.jpg^|^210^|^funny^|^available

@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^101^|^Dogs^|^Max^|^www.photo1.com^|^201^|^friendly^|^available
+2^|^102^|^Cats^|^Bella^|^www.photo2.com^|^202^|^lazy^|^pending
+3^|^103^|^Birds^|^Charlie^|^www.photo3.com^|^203^|^singing^|^sold
+4^|^104^|^Fish^|^Lucy^|^www.photo4.com^|^204^|^swimming^|^available
+5^|^105^|^Reptiles^|^Cooper^|^www.photo5.com^|^205^|^slithering^|^pending
+6^|^106^|^Rodents^|^Rocky^|^www.photo6.com^|^206^|^squeaking^|^sold
+7^|^107^|^Rabbits^|^Milo^|^www.photo7.com^|^207^|^jumping^|^available
+8^|^108^|^Horses^|^Zeus^|^www.photo8.com^|^208^|^galloping^|^pending
+9^|^109^|^Ferrets^|^Oliver^|^www.photo9.com^|^209^|^hiding^|^sold
+10^|^110^|^Hamsters^|^Teddy^|^www.photo10.com^|^210^|^burrowing^|^available

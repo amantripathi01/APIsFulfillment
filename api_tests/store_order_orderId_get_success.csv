@@ -1,0 +1,11 @@
+id^|^petId^|^quantity^|^shipDate^|^status^|^complete^|^orderId
+1^|^101^|^2^|^2022-01-01T13:45:30^|^Shipped^|^true^|^ORD101
+2^|^102^|^1^|^2022-01-02T14:45:30^|^Delivered^|^true^|^ORD102
+3^|^103^|^3^|^2022-01-03T15:45:30^|^Processing^|^false^|^ORD103
+4^|^104^|^4^|^2022-01-04T16:45:30^|^Shipped^|^true^|^ORD104
+5^|^105^|^5^|^2022-01-05T17:45:30^|^Delivered^|^true^|^ORD105
+6^|^106^|^2^|^2022-01-06T18:45:30^|^Processing^|^false^|^ORD106
+7^|^107^|^1^|^2022-01-07T19:45:30^|^Shipped^|^true^|^ORD107
+8^|^108^|^3^|^2022-01-08T20:45:30^|^Delivered^|^true^|^ORD108
+9^|^109^|^4^|^2022-01-09T21:45:30^|^Processing^|^false^|^ORD109
+10^|^110^|^5^|^2022-01-10T22:45:30^|^Shipped^|^true^|^ORD110

@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^10^|^Dogs^|^Rex^|^https://images.dogs.com/rex^|^100^|^Active^|^Available
+2^|^20^|^Cats^|^Whiskers^|^https://images.cats.com/whiskers^|^200^|^Frisky^|^Available
+3^|^10^|^Dogs^|^Max^|^https://images.dogs.com/max^|^300^|^Playful^|^Sold
+4^|^30^|^Birds^|^Tweety^|^https://images.birds.com/tweety^|^400^|^Chirpy^|^Available
+5^|^40^|^Fish^|^Nemo^|^https://images.fish.com/nemo^|^500^|^Swimming^|^Sold
+6^|^50^|^Reptiles^|^Spike^|^https://images.reptiles.com/spike^|^600^|^Crawling^|^Available
+7^|^10^|^Dogs^|^Buddy^|^https://images.dogs.com/buddy^|^700^|^Excited^|^Sold
+8^|^20^|^Cats^|^Snowball^|^https://images.cats.com/snowball^|^800^|^Lazy^|^Available
+9^|^10^|^Dogs^|^Lady^|^https://images.dogs.com/lady^|^900^|^Elegant^|^Sold
+10^|^30^|^Birds^|^Polly^|^https://images.birds.com/polly^|^1000^|^Talking^|^Available

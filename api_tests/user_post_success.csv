@@ -1,0 +1,11 @@
+id^|^username^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus
+1^|^user1^|^John^|^Doe^|^john.doe@gmail.com^|^password1^|^1234567890^|^1
+2^|^user2^|^Jane^|^Smith^|^jane.smith@gmail.com^|^password2^|^0987654321^|^2
+3^|^user3^|^Robert^|^Johnson^|^robert.johnson@gmail.com^|^password3^|^1112223333^|^1
+4^|^user4^|^Michael^|^Williams^|^michael.williams@gmail.com^|^password4^|^2223334444^|^2
+5^|^user5^|^Sarah^|^Brown^|^sarah.brown@gmail.com^|^password5^|^3334445555^|^1
+6^|^user6^|^Jessica^|^Jones^|^jessica.jones@gmail.com^|^password6^|^4445556666^|^2
+7^|^user7^|^Thomas^|^Miller^|^thomas.miller@gmail.com^|^password7^|^5556667777^|^1
+8^|^user8^|^Richard^|^Davis^|^richard.davis@gmail.com^|^password8^|^6667778888^|^2
+9^|^user9^|^Patricia^|^Garcia^|^patricia.garcia@gmail.com^|^password9^|^7778889999^|^1
+10^|^user10^|^Linda^|^Rodriguez^|^linda.rodriguez@gmail.com^|^password10^|^8889990000^|^2

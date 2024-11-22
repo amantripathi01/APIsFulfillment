@@ -1,0 +1,11 @@
+id^|^categoryId^|^categoryName^|^name^|^photoUrls^|^tagId^|^tagName^|^status
+1^|^1^|^Mammals^|^doggie^|^www.doggie1.com^|^1^|^friendly^|^available
+2^|^2^|^Birds^|^parrot^|^www.parrot2.com^|^2^|^talkative^|^available
+3^|^1^|^Mammals^|^cat^|^www.cat3.com^|^3^|^lazy^|^available
+4^|^3^|^Reptiles^|^turtle^|^www.turtle4.com^|^4^|^slow^|^available
+5^|^1^|^Mammals^|^hamster^|^www.hamster5.com^|^5^|^energetic^|^available
+6^|^2^|^Birds^|^canary^|^www.canary6.com^|^6^|^singer^|^available
+7^|^1^|^Mammals^|^rabbit^|^www.rabbit7.com^|^7^|^jumper^|^available
+8^|^3^|^Reptiles^|^snake^|^www.snake8.com^|^8^|^silent^|^available
+9^|^1^|^Mammals^|^mouse^|^www.mouse9.com^|^9^|^curious^|^available
+10^|^2^|^Birds^|^eagle^|^www.eagle10.com^|^10^|^proud^|^available

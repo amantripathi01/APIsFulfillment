@@ -1,0 +1,11 @@
+id^|^username^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus
+1^|^johnDoe123^|^John^|^Doe^|^johndoe@gmail.com^|^Doe123^|^1234567890^|^1
+2^|^janeDoe321^|^Jane^|^Doe^|^janedoe@gmail.com^|^Doe321^|^0987654321^|^1
+3^|^bobSmith456^|^Bob^|^Smith^|^bobsmith@gmail.com^|^Smith456^|^1230984567^|^1
+4^|^aliceJohnson654^|^Alice^|^Johnson^|^alicejohnson@gmail.com^|^Johnson654^|^0981237654^|^1
+5^|^charlieBrown789^|^Charlie^|^Brown^|^charliebrown@gmail.com^|^Brown789^|^7891234560^|^1
+6^|^lucyVanPelt987^|^Lucy^|^Van Pelt^|^lucyvanpelt@gmail.com^|^VanPelt987^|^9876543210^|^1
+7^|^linusVanPelt^|^Linus^|^Van Pelt^|^linusvanpelt@gmail.com^|^VanPelt111^|^1112223334^|^1
+8^|^peppermintPatty^|^Peppermint^|^Patty^|^peppermintpatty@gmail.com^|^Patty222^|^2223334445^|^1
+9^|^snoopyDog^|^Snoopy^|^Dog^|^snoopydog@gmail.com^|^Dog333^|^3334445556^|^1
+10^|^woodstockBird^|^Woodstock^|^Bird^|^woodstockbird@gmail.com^|^Bird444^|^4445556667^|^1

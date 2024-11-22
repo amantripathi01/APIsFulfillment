@@ -1,0 +1,11 @@
+id^|^category.id^|^category.name^|^name^|^photoUrls^|^tags.id^|^tags.name^|^status
+1^|^2^|^Mammals^|^doggie^|^https://example.com/doggie1.jpg^|^3^|^Cute^|^available
+2^|^2^|^Mammals^|^kitty^|^https://example.com/kitty1.jpg^|^4^|^Adorable^|^sold
+3^|^3^|^Birds^|^parrot^|^https://example.com/parrot1.jpg^|^5^|^Colorful^|^available
+4^|^4^|^Reptiles^|^turtle^|^https://example.com/turtle1.jpg^|^6^|^Slow^|^sold
+5^|^2^|^Mammals^|^puppy^|^https://example.com/puppy1.jpg^|^3^|^Energetic^|^available
+6^|^2^|^Mammals^|^kitten^|^https://example.com/kitten1.jpg^|^4^|^Fluffy^|^available
+7^|^3^|^Birds^|^canary^|^https://example.com/canary1.jpg^|^5^|^Singing^|^sold
+8^|^4^|^Reptiles^|^snake^|^https://example.com/snake1.jpg^|^6^|^Slithering^|^available
+9^|^2^|^Mammals^|^hamster^|^https://example.com/hamster1.jpg^|^3^|^Small^|^available
+10^|^2^|^Mammals^|^rabbit^|^https://example.com/rabbit1.jpg^|^4^|^Hopping^|^sold

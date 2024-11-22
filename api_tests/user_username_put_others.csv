@@ -1,0 +1,11 @@
+username^|^id^|^firstName^|^lastName^|^email^|^password^|^phone^|^userStatus
+JohnDoe^|^123^|^John^|^Doe^|^john.doe@example.com^|^pass123^|^1234567890^|^1
+JaneDoe^|^124^|^Jane^|^Doe^|^jane.doe@example.com^|^pass456^|^0987654321^|^0
+AliceSmith^|^125^|^Alice^|^Smith^|^alice.smith@example.com^|^pass789^|^1122334455^|^1
+BobJohnson^|^126^|^Bob^|^Johnson^|^bob.johnson@example.com^|^pass012^|^2233445566^|^0
+CharlieBrown^|^127^|^Charlie^|^Brown^|^charlie.brown@example.com^|^pass345^|^3344556677^|^1
+DavidWilliams^|^128^|^David^|^Williams^|^david.williams@example.com^|^pass678^|^4455667788^|^0
+EveMiller^|^129^|^Eve^|^Miller^|^eve.miller@example.com^|^pass901^|^5566778899^|^1
+FrankMoore^|^130^|^Frank^|^Moore^|^frank.moore@example.com^|^pass234^|^6677889900^|^0
+GraceTaylor^|^131^|^Grace^|^Taylor^|^grace.taylor@example.com^|^pass567^|^7788990011^|^1
+HarryAnderson^|^132^|^Harry^|^Anderson^|^harry.anderson@example.com^|^pass890^|^8899001122^|^0

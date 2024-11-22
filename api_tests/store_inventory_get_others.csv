@@ -1,0 +1,11 @@
+invalidApiKey^|^statusCode^|^scenario
+12345^|^200^|^Login
+abcde^|^400^|^Logout
+67890^|^500^|^Registration
+fghij^|^200^|^Password Reset
+13579^|^404^|^Profile Update
+24680^|^300^|^Account Deactivation
+ijklm^|^200^|^Login
+753159^|^500^|^Logout
+noprst^|^400^|^Registration
+852963^|^200^|^Password Reset
